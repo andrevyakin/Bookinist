@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookinist", "Bookinist\Book
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookinist.DAL", "Bookinist.DAL\Bookinist.DAL.csproj", "{6C601214-E6DD-4209-9525-1637CDECE85D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookinist.Interfaces", "Bookinist.Interfaces\Bookinist.Interfaces.csproj", "{6FA730C3-4011-4B2F-89E7-CE185F965781}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6C601214-E6DD-4209-9525-1637CDECE85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C601214-E6DD-4209-9525-1637CDECE85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C601214-E6DD-4209-9525-1637CDECE85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA730C3-4011-4B2F-89E7-CE185F965781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA730C3-4011-4B2F-89E7-CE185F965781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA730C3-4011-4B2F-89E7-CE185F965781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA730C3-4011-4B2F-89E7-CE185F965781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
