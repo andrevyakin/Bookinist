@@ -3,7 +3,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace Bookinist
 {
-    class Program
+    public class Program
     {
         [STAThread]
         static void Main(string[] args)
